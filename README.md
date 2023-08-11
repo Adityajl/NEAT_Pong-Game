@@ -13,3 +13,7 @@ Then after that there will be a training phase for the game.
 To run the game training phase.
 
 `python3 main.py`
+
+If you want to play against AI.
+
+`python3 tutorial.py`
